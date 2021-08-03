@@ -1,3 +1,5 @@
+УСЛОВИЯ ДЛЯ ВСЕХ ЗАДАЧ
+
 Схема БД состоит из четырех таблиц:
 Product(maker, model, type)
 PC(code, model, speed, ram, hd, cd, price)
